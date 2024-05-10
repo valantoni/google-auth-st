@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Notebook
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+.DS_Store
+.DS_Store/
+dist/
+
+
+.streamlit
+.direnv/
+.envrc
+.mypy_cache/
+
+app.py
+
+*.egg-info

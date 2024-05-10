@@ -1,0 +1,3 @@
+httpx_oauth
+PyJWT
+streamlit
