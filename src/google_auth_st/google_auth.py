@@ -113,3 +113,5 @@ def get_logged_in_user_email() -> Optional[str]:
     st.session_state["email"] = user_info["email"]
 
     return user_info["email"]
+
+
