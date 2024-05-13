@@ -1,5 +1,5 @@
 import streamlit as st
-from google_auth import get_logged_in_user_email, show_login_button
+from .google_auth import get_logged_in_user_email, show_login_button
 
 def add_auth(
     login_button_text: str = "Login with Google",
