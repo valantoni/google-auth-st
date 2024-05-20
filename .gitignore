@@ -17,5 +17,7 @@ dist/
 .mypy_cache/
 
 app.py
+publicar_libreria.txt
+google_auth_old.py
 
 *.egg-info

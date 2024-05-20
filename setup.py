@@ -13,6 +13,7 @@ setup(
     install_requires=[
         'streamlit',
         'httpx_oauth',
-        'PyJWT'
+        'PyJWT',
+        'streamlit_shadcn_ui'
     ],
 )

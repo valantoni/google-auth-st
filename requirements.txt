@@ -1,3 +1,4 @@
 httpx_oauth
 PyJWT
 streamlit
+streamlit-shadcn-ui

@@ -39,6 +39,7 @@ async def get_authorization_url(client: GoogleOAuth2, redirect_url: str) -> str:
 def markdown_button(
     url: str, text: Optional[str] = None, color="#FD504D", sidebar: bool = True
 ):
+    
     markdown = st.sidebar.markdown if sidebar else st.markdown
     
     markdown(

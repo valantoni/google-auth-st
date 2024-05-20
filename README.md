@@ -1,8 +1,6 @@
-[![Releases](https://img.shields.io/pypi/v/st-paywall)](https://pypi.org/project/st-paywall/)
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://subscription.streamlit.app)
-
 Author: [@valantoni](https://instagram.com/tonidevpy)
+
+☕ Apoya al desarrollador [aquí](https://buymeacoffee.com/toni_dev) / Support me [here](https://buymeacoffee.com/toni_dev)
 
 
 ## Installation
@@ -10,7 +8,6 @@ Author: [@valantoni](https://instagram.com/tonidevpy)
 ```sh
 pip install google-auth-st
 ```
-
 
 <p>&nbsp;</p>
 
@@ -47,3 +44,8 @@ redirect_url = "https://your_app_url..."
 ### Feedback:
 
 If you have feedback about this package, please reach out to me on [instagram](https://instagram.com/tonidevpy).
+
+### Shotout
+
+Shotout to [@tylerjrichards](https://github.com/tylerjrichards) for creating the st-paywall package and inspiring me to create this new version without the
+payment method.
