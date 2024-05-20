@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='google-auth-st',
-    version='1.2',
+    version='1.3',
     packages= ['google_auth_st'],
     description='Librería para añadir autenticación con Google en aplicaciones web con el framework de Streamlit.',
     long_description=open('README.md',encoding='utf-8').read(),
@@ -13,7 +13,6 @@ setup(
     install_requires=[
         'streamlit',
         'httpx_oauth',
-        'PyJWT',
-        'streamlit_shadcn_ui'
+        'PyJWT'
     ],
 )
